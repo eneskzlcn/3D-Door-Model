@@ -5,13 +5,13 @@
 
 Front
 &nbsp;
-![](https://eneskzlcn.github.io/3D-Door-Model/front.tif)
+![](https://eneskzlcn.github.io/3D-Door-Model/front.png)
 &nbsp;
 &nbsp;
 Full Length
-![](https://eneskzlcn.github.io/3D-Door-Model/fullLength.tif)
+![](https://eneskzlcn.github.io/3D-Door-Model/fullLength.png)
 &nbsp;
 &nbsp;
 Side
 &nbsp;
-![](https://eneskzlcn.github.io/3D-Door-Model/side.tif)
+![](https://eneskzlcn.github.io/3D-Door-Model/side.png)
